@@ -72,11 +72,12 @@
 ## EXPERIMENT 7
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT.7.DBMS)
 
+![image](https://user-images.githubusercontent.com/113514165/194261796-084e1a40-2ce0-4c9f-9c04-c0e4a91ad242.png)
+
 ![image](https://user-images.githubusercontent.com/113514165/193743899-e7bb93f3-115d-4b74-9a4f-fe92f90c641b.png)
 
 ![image](https://user-images.githubusercontent.com/113514165/193743923-36b61120-3d3e-4f4e-87a3-584c078c2264.png)
 
-![Uploading image.)png…]()
 
 ## EXPERIMENT 8
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT-8.txt)
