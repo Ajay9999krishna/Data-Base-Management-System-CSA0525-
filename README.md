@@ -11,6 +11,7 @@
 ![image](https://user-images.githubusercontent.com/113514165/193735942-0eea1e67-0ef8-4757-804f-7e70cbcf1609.png)
 
 
+
 ## EXPERIMENT 2
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT%202)
 
@@ -21,6 +22,7 @@
 ![image](https://user-images.githubusercontent.com/113514165/193736365-aa93c0b8-60cc-4e6e-9b96-bfe28927321e.png)
 
 ![image](https://user-images.githubusercontent.com/113514165/193736415-4181ca54-87bf-47c6-bcc5-2b9eee6f4d0c.png)
+
 
 
 ## EXPERIMENT 3,4
@@ -41,6 +43,7 @@
 ![image](https://user-images.githubusercontent.com/113514165/193742317-e9ef7615-bfcf-475a-b1bd-8925d12e7806.png)
 
 
+
 ## EXPERIMENT 5
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT%205)
 
@@ -59,6 +62,7 @@
 ![image](https://user-images.githubusercontent.com/113514165/193742976-e95390a7-65cb-4b08-80aa-17d2d283cbb0.png)
 
 
+
 ## EXPERIMENT 6
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT%206)
 
@@ -67,6 +71,7 @@
 ![image](https://user-images.githubusercontent.com/113514165/193743548-1e8098ac-26e8-43a1-bca3-6efd6460e040.png)
 
 ![image](https://user-images.githubusercontent.com/113514165/193743869-2dd71c72-ccce-46c2-ac60-5e8c5a377670.png)
+
 
 
 ## EXPERIMENT 7
@@ -79,6 +84,7 @@
 ![image](https://user-images.githubusercontent.com/113514165/193743923-36b61120-3d3e-4f4e-87a3-584c078c2264.png)
 
 
+
 ## EXPERIMENT 8
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT-8.txt)
 
@@ -87,6 +93,7 @@
 ![image](https://user-images.githubusercontent.com/113514165/193744233-b20b6cab-94c2-4a2f-b338-5803868837ee.png)
 
 ![image](https://user-images.githubusercontent.com/113514165/193744650-53f4bfd8-ec2e-49b4-b239-da08b0ae625f.png)
+
 
 
 ## EXPERIMENT 9)
@@ -99,11 +106,13 @@
 ![image](https://user-images.githubusercontent.com/113514165/193744612-b92805c9-e38d-45a4-bce8-71e62bbaad34.png)
 
 
+
 ## EXPERIMENT 10
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/experiment_10.txt)
 
 ![image](https://user-images.githubusercontent.com/113514165/193744812-e1e55416-0527-4d24-9448-ae987a1b9c7e.png)
 ![image](https://user-images.githubusercontent.com/113514165/193744831-0bf3bbc3-8296-4735-996b-a2e686fa5806.png)
+
 
 ## EXPERIMENT 11
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/Experiment_11.txt)
@@ -111,6 +120,7 @@
 ![image](https://user-images.githubusercontent.com/113514165/193744978-dbcaa5ea-f426-4cca-a654-20d49c4d0173.png)
 
 ![image](https://user-images.githubusercontent.com/113514165/193745024-d5737639-508d-41ef-aeeb-2733a7f28a4a.png)
+
 
 
 ## EXPERIMENT 12
@@ -121,10 +131,12 @@
 ![image](https://user-images.githubusercontent.com/113514165/193745260-e0182116-a7c1-4128-9f50-f77294581b8f.png)
 
 
+
 ## EXPERIMENT 13
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT%2013)
 
 ![image](https://user-images.githubusercontent.com/113514165/194224687-40ead6c5-b8c0-49da-9c13-5cfb042fb641.png)
+
 
 
 ## EXPERIMENT 14
@@ -133,10 +145,12 @@
 ![image](https://user-images.githubusercontent.com/113514165/194224942-3f1f28ea-e0da-4dc2-ad32-e24fddd262d2.png)
 
 
+
 ## EXPERIMENT 15
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT%2015)
 
 ![image](https://user-images.githubusercontent.com/113514165/194225061-243569a1-ed73-4d4f-a7bc-8a8dbd54560a.png)
+
 
 
 ## EXPERIMENT 16
@@ -145,13 +159,15 @@
 ![image](https://user-images.githubusercontent.com/113514165/194225207-e1f231db-84c1-4e1d-bd1f-58fceaff6241.png)
 
 
+
 ## EXPERIMENT 17
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT%2017)
 
 ![image](https://user-images.githubusercontent.com/113514165/194225362-e33dc8b4-ba09-446f-a704-23724ef1d0b8.png)
 
 
-## EXPERIMENT 18
+
+# EXPERIMENT 18
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT%2018)
 
 ![image](https://user-images.githubusercontent.com/113514165/194225515-1cbf6900-f7ac-41f6-91e2-09fdaa79ada7.png)
