@@ -167,7 +167,7 @@
 
 
 
-# EXPERIMENT 18
+ EXPERIMENT 18
 [QUERY LINK](https://github.com/Ajay9999krishna/Data-Base-Management-System-CSA0525-/blob/main/EXPERIMENT%2018)
 
 ![image](https://user-images.githubusercontent.com/113514165/194225515-1cbf6900-f7ac-41f6-91e2-09fdaa79ada7.png)
